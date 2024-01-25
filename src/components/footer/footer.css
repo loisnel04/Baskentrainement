@@ -1,0 +1,59 @@
+.class_footer {
+    position: relative;
+    background-color: rgb(38, 38, 38);
+    top: 20px;
+    width: 100%;
+    color: rgb(179, 179, 179);  
+}
+
+.footer_haut {
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo_footer {
+    position: relative;
+    top: 50%;
+}
+
+.suivre {
+    width: 150px;
+}
+
+.class_liens {  
+    width: 10px;
+    margin: 40px;
+}
+
+.img_size{
+    width: 30px; 
+    height: 30px;
+    filter:grayscale(100%);
+}
+
+.class_contact {
+    margin: 40px;
+}
+
+.class_siege {
+    margin: 40px;
+}
+
+.class_footer p {
+    margin: 2px;
+}
+
+.footer_bas {
+    position: relative;
+    display: flex;
+    margin-top: 10px;
+    bottom: 10px;
+    justify-content: center;
+}
+
+#mention_legal {
+    margin-left: 5px;
+    color: rgb(43, 0, 201);
+    text-decoration: none;
+}

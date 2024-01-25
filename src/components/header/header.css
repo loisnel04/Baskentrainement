@@ -1,0 +1,17 @@
+.class_header {
+    position: relative;
+    background-color: rgb(215, 215, 215);
+}
+
+.titre_site {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 98, 0);
+    /*Aligne horizontalement le texte*/
+}
+
+#img_ballon {
+    position: relative;
+    height: 100px;
+    width: 100px;
+}
